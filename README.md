@@ -22,7 +22,7 @@ MUHAFIZ is an emergency alert and disaster management system designed to assist 
 Software Engineering Academic Project
 
 ## Team
-- Project Manager
-- Team Lead / QA
-- Frontend Developer
-- Backend Developer
+- M. Yahya | Project Manager
+- M. Ramiz | Team Lead / QA
+- Wardah Khalid | Frontend Developer
+- Maheen Fatima | Backend Developer
